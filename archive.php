@@ -9,7 +9,7 @@
 
 //get_header(); ?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <!-- Mirrored from www.aglaze.com/news/ by HTTrack Website Copier/3.x [XR&CO'2013], Tue, 22 Oct 2013 04:49:38 GMT -->
